@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af1ff4d4.css",
+    "main.js": "/static/js/main.cec77b8a.js",
+    "static/js/787.723214ac.chunk.js": "/static/js/787.723214ac.chunk.js",
+    "static/media/kishor M Final Resume.pdf": "/static/media/kishor M Final Resume.0f865fd018dcdc9431c1.pdf",
+    "static/media/IMG_20230406_221754.jpg": "/static/media/IMG_20230406_221754.3ac3f94397972229d43d.jpg",
+    "index.html": "/index.html",
+    "main.af1ff4d4.css.map": "/static/css/main.af1ff4d4.css.map",
+    "main.cec77b8a.js.map": "/static/js/main.cec77b8a.js.map",
+    "787.723214ac.chunk.js.map": "/static/js/787.723214ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af1ff4d4.css",
+    "static/js/main.cec77b8a.js"
+  ]
+}
